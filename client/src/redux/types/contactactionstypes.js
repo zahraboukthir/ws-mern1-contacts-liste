@@ -1,0 +1,2 @@
+export const GETONECONTACT = "GETONECONTACT";
+export const GETCONTACT = "GETCONTACT";
